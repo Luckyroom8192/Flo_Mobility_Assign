@@ -1,1 +1,1 @@
-the python file contains the code to create a point cloud in base frame from the disparity image provided. and the other 2 images are the images of the point cloud before and after transformation to base frame.
+the python file contains the code to create a point cloud in base frame from the disparity image provided. and the other 2 images are the images of the point cloud before and after transformation to base frame. I used chatgpt for the visualization of the point cloud, rest was solely coded by me.
